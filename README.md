@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abbas Sayyahi
+# Abbas Sayahi
 
 ### AI Product Builder & Founder
 
